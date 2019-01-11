@@ -5,8 +5,7 @@
   "description": "Built with Material Starter Kit, a file template to get you up and running with Material Components for the Web.",
   "scripts": {
     "build": "webpack -p",
-    "//": "If you are building your app locally, in the following line remove everything after webpack-dev-server",
-    "start": "webpack-dev-server --host 0.0.0.0 --disable-host-check --public $PROJECT_DOMAIN.glitch.me"
+    "start": "webpack-dev-server"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

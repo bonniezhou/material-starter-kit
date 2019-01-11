@@ -3,6 +3,14 @@
 
 This file template sets up the `webpack` configuration and installs the `npm` packages required to get Material Components for the Web up and running. It simply displays a Material button that says "Hello World"!
 
+## Run this project
+1. From the root directory, run: 
+```
+npm install
+npm start
+```
+2. Point your browser to http://localhost:8080/
+
 ## Interested in learning more?
 Check out the [Material Components for the Web](https://github.com/material-components/material-components-web) documentation to add more components and styling.
 
