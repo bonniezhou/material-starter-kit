@@ -1,0 +1,15 @@
+// Material Theming
+
+// Define theme variables before importing any MDC Web component styles
+// $mdc-theme-primary: midnightblue;
+
+// Import the styles for each MDC Web component
+@import "@material/typography/mdc-typography";
+@import "@material/button/mdc-button";
+
+// Check out the MDC Web documentation for how to use MDC Sass mixins:
+// https://github.com/material-components/material-components-web
+// .foo-button {
+//   @include mdc-button-ink-color(lightblue);
+//   @include mdc-states(lightblue);
+// }
