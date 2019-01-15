@@ -3,6 +3,9 @@
 
 This file template sets up the `webpack` configuration and installs the `npm` packages required to get Material Components for the Web up and running. It simply displays a Material button that says "Hello World"!
 
+- View it on [GitHub Pages](https://bonniezhou.github.io/material-starter-kit/)
+- View it on [Glitch](https://glitch.com/~material-starter-kit)
+
 ## Build this project
 
 ### Run locally for development
