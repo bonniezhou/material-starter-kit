@@ -22,9 +22,9 @@
     "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
-    "@material/button": "^0.41.0",
-    "@material/ripple": "^0.41.0",
-    "@material/typography": "^0.42.0"
+    "@material/button": "^1.1.1",
+    "@material/ripple": "^1.1.0",
+    "@material/typography": "^1.0.0"
   },
   "engines": {
     "node": "10.x"
