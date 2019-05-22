@@ -24,7 +24,8 @@
   "dependencies": {
     "@material/button": "^0.41.0",
     "@material/ripple": "^0.41.0",
-    "@material/typography": "^0.42.0"
+    "@material/typography": "^0.42.0",
+    "material-components-web": "^2.2.0"
   },
   "engines": {
     "node": "10.x"
