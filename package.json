@@ -2,6 +2,8 @@
   "name": "material-starter-kit",
   "version": "0.1.0",
   "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/bonniezhou/material-starter-kit",
   "description": "Built with Material Starter Kit, a file template to get you up and running with Material Components for the Web.",
   "scripts": {
     "build": "webpack -p",
