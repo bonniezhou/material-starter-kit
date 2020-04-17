@@ -5,7 +5,7 @@
   "description": "Built with Material Starter Kit, a file template to get you up and running with Material Components for the Web.",
   "scripts": {
     "build": "webpack -p",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server --mode=production"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
